@@ -3,6 +3,8 @@
   "values": [
     "create:wrench",
     "botania:lexicon",
+    "botania:twig_wand",
+    "botania:dreamwood_wand",
     "#botania:rods",
     "#botania:mana_using_items"
   ]
