@@ -10,4 +10,4 @@
 1. Download [latest version](https://github.com/844196/tb-config/releases)
 2. **Unzip**
 3. Put **unzipped** datapack into `world/datapacks`
-4. Run `/reload`
+4. Run `/minecraft:reload`
