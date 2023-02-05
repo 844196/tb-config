@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-    "create:wrench"
+    "create:wrench",
+    "botania:lexicon",
+    "#botania:rods",
+    "#botania:mana_using_items"
   ]
 }
